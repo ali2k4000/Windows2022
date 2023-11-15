@@ -161,7 +161,7 @@ build {
   }
 
   provisioner "powershell" {
-    scripts = ["./scripts/vm-guest-tools.ps1", "./scripts/debloat-windows.ps1"]
+    scripts = [""./scripts/debloat-windows.ps1"]
   }
 
   provisioner "windows-shell" {
