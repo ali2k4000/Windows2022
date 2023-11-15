@@ -160,7 +160,7 @@
     }
   ],
   "variables": {
-    "autounattend": "./answer_files/2022_core/Autounattend.xml",
+    "autounattend": "./answer_files/Autounattend.xml",
     "disk_size": "61440",
     "disk_type_id": "1",
     "memory": "2048",
